@@ -8,3 +8,8 @@ The 64 possible numbers fall into 16 groups when we relabel the 3 nodes in all 6
 # Hand example
 
 Triad 0->1, 1->2, 2->0. Some orderings give code 25 and the others give code 38. The smallest is 25, so this triad is class 9, the directed cycle.
+
+
+# Counting triads (T4)
+
+For each node we take every pair of its neighbours (in either direction). That node together with the pair is always a connected triad. The same triad can be found from different nodes, so we store each triad as a sorted tuple in a set and count it only once.
