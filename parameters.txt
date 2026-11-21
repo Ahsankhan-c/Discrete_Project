@@ -1,0 +1,9 @@
+R = 2976
+pair_number = 126
+i = 8
+j = 11
+dept_A = 15
+dept_B = 13
+num_random = 20
+swap_factor = 5
+seed = 2976
