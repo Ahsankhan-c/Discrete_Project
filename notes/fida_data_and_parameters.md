@@ -11,3 +11,6 @@ Department A = 15, Department B = 13
 Random networks = 20 + (2976 mod 31) = 20
 Swap attempts = (5 + (2976 mod 6)) x edges = 5 x edges
 Seed = 2976
+# Subgraphs (T2)
+
+Department 15 has 55 nodes and 357 edges. Department 13 has 26 nodes and 279 edges. For each department we keep only the edges where both endpoints are inside the department
