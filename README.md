@@ -111,7 +111,7 @@ Motif if Z > 2 and anti-motif if Z < -2.
 
 Both departments mostly email each other in both directions. Class 8 (two mutual pairs sharing one person) and
 class 13 (everybody emails everybody both ways) are motifs in both, and most one-way patterns like one sender with
-two receivers (class 1), chains (class 2) and loops (classes 5 and 9) are anti-motifs. The difference is the size
+two receivers (class 1), chains (class 2) and feed-forward triangles (class 5) and cycles (class 9) are anti-motifs. The difference is the size
 and density. Department 15 has 55 people and is not so dense, and its motif signals are stronger (Z = 7.50 for class 8).
 Department 13 has only 26 people but is very dense, so the full triangle is about 28% of all its triads, and classes 7 and 12
 are also anti-motifs there, but not in department 15. So department 13 works like one small circle where almost everyone talks to everyone,
